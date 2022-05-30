@@ -1,7 +1,7 @@
 ## Hello!
 -------------------------------------
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noreen-py&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noreen-py&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noreen-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  
+</p>
+<p align="center">
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
