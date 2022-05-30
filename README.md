@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noreen-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">Languages I mostly use</h3>
 
 
 
