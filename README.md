@@ -1,8 +1,6 @@
 ## Hello!
 -------------------------------------
-### Stuff I'm currently working on
-+ making a new programming language
-+ making some wierd stuff with Python and Go
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noreen-py)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Vidar
 is this new programming language that I'm developing
