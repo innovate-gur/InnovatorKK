@@ -3,9 +3,9 @@
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noreen-py&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyun-KK&show_icons=true&theme=radical)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noreen-py&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyun-KK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
